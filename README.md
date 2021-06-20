@@ -3,6 +3,6 @@ Small web projects using HTML, CSS &amp; JS, which  based on course ['50 Project
 
 If you want to see the result, open the links below :arrow_down:
 
-[Expanding Cards](https://expanding-cards-1.netlify.app/)
-[Progress Steps](https://progress-steps-2.netlify.app/)
-[Rotating Navigation](https://rotating-navigation-3.netlify.app/)
+[Expanding Cards](https://expanding-cards-1.netlify.app/)<br/>
+[Progress Steps](https://progress-steps-2.netlify.app/)<br/>
+[Rotating Navigation](https://rotating-navigation-3.netlify.app/)<br/>
