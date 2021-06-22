@@ -6,3 +6,4 @@ If you want to see the result, open the links below :arrow_down:
 [Expanding Cards](https://expanding-cards-1.netlify.app/)<br/>
 [Progress Steps](https://progress-steps-2.netlify.app/)<br/>
 [Rotating Navigation](https://rotating-navigation-3.netlify.app/)<br/>
+[Hidden Search Widget](https://hidden-search-4.netlify.app/)<br/>
