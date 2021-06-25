@@ -9,3 +9,4 @@ If you want to see the result, open the links below :arrow_down:
 [Hidden Search Widget](https://hidden-search-4.netlify.app/)<br/>
 [Blurry Loading](https://blurry-loading-5.netlify.app/)<br/>
 [Scroll Animation](https://scroll-animation-6.netlify.app/)<br/>
+[Split Landing Page](https://split-landing-page-7.netlify.app/)<br/>
