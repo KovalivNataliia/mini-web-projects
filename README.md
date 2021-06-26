@@ -10,3 +10,4 @@ If you want to see the result, open the links below :arrow_down:
 [Blurry Loading](https://blurry-loading-5.netlify.app/)<br/>
 [Scroll Animation](https://scroll-animation-6.netlify.app/)<br/>
 [Split Landing Page](https://split-landing-page-7.netlify.app/)<br/>
+[Form Wave](https://form-wave-8.netlify.app/)<br/>
