@@ -16,3 +16,4 @@ If you want to see the result, open the links below :arrow_down:
 11. [Event Keycodes](https://event-keycodes-11.netlify.app/)<br/>
 12. [Faq Collapse](https://faq-collapse-12.netlify.app/)<br/>
 13. [Random Choice Picker](https://random-choice-picker-13.netlify.app/)<br/>
+14. [Animated Navigation](https://animated-navigation-14.netlify.app/)<br/>
